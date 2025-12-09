@@ -1,0 +1,5 @@
+uvicorn
+google-adk==1.15.1
+google-cloud-aiplatform[adk,agent-engines]==1.121.0
+python-dotenv==1.0.1
+pg8000==1.31.2
